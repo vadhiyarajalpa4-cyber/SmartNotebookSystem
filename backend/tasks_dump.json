@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "69cf83a2d98381d76ac229e4",
+    "title": "ML Project",
+    "description": "this project is about Customer Classification Using KNN",
+    "status": "completed",
+    "userId": "69cf836ed98381d76ac229dd",
+    "createdAt": "2026-04-03T09:08:50.336Z",
+    "updatedAt": "2026-04-03T09:09:10.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf95abd98381d76ac22a3c",
+    "title": "ML Project",
+    "description": "This project is about Customer Classification Using KNN",
+    "status": "completed",
+    "userId": "69cf9386d98381d76ac22a1b",
+    "createdAt": "2026-04-03T10:25:47.304Z",
+    "updatedAt": "2026-04-03T10:26:22.378Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf98aed98381d76ac22a47",
+    "title": "MERN",
+    "description": "This project is describe inventory management system",
+    "status": "completed",
+    "userId": "69cf9386d98381d76ac22a1b",
+    "createdAt": "2026-04-03T10:38:38.383Z",
+    "updatedAt": "2026-04-03T10:39:09.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf9ae1d98381d76ac22a62",
+    "title": "MERN STACK",
+    "description": "This project is about Inventory Management System",
+    "status": "completed",
+    "userId": "69cf9a95d98381d76ac22a5b",
+    "createdAt": "2026-04-03T10:48:01.392Z",
+    "updatedAt": "2026-04-03T12:50:27.998Z",
+    "__v": 0,
+    "dueDate": "2026-04-07T00:00:00.000Z",
+    "priority": "Medium"
+  },
+  {
+    "_id": "69cf9fb9d98381d76ac22aa0",
+    "title": "Test Task",
+    "description": "Test Desc",
+    "status": "pending",
+    "userId": "69cf9f99d98381d76ac22a99",
+    "createdAt": "2026-04-03T11:08:41.805Z",
+    "updatedAt": "2026-04-03T11:10:07.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa1afd98381d76ac22ab6",
+    "title": "Test Task with Due Date",
+    "description": "This is a test task to verify the due date visibility.",
+    "status": "pending",
+    "userId": "69cf9f99d98381d76ac22a99",
+    "createdAt": "2026-04-03T11:17:03.295Z",
+    "updatedAt": "2026-04-03T11:17:03.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa210d98381d76ac22abd",
+    "title": "Network Test TaskFinal Test Task",
+    "description": "Testing due date one last time.",
+    "status": "pending",
+    "userId": "69cf9f99d98381d76ac22a99",
+    "createdAt": "2026-04-03T11:18:40.716Z",
+    "updatedAt": "2026-04-03T11:18:40.716Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa6abd98381d76ac22b4e",
+    "title": "Verification Task",
+    "description": "This is the final test",
+    "status": "pending",
+    "userId": "69cf9f99d98381d76ac22a99",
+    "createdAt": "2026-04-03T11:38:19.806Z",
+    "updatedAt": "2026-04-03T11:38:19.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfacf3d98381d76ac22c0e",
+    "title": "ML",
+    "description": "Customer Classification Using KNN",
+    "status": "completed",
+    "userId": "69cf9a95d98381d76ac22a5b",
+    "createdAt": "2026-04-03T12:05:07.862Z",
+    "updatedAt": "2026-04-03T12:32:43.675Z",
+    "__v": 0,
+    "dueDate": "2026-04-05T00:00:00.000Z",
+    "priority": "Low"
+  },
+  {
+    "_id": "69cfb5778b566e3ce76a9171",
+    "title": "hgj,",
+    "description": "bkjhkjnhlkijnli",
+    "status": "completed",
+    "userId": "69cf9a95d98381d76ac22a5b",
+    "dueDate": "2026-04-03T00:00:00.000Z",
+    "priority": "High",
+    "createdAt": "2026-04-03T12:41:27.122Z",
+    "updatedAt": "2026-04-03T12:48:10.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfb7b68b566e3ce76a919a",
+    "title": "qwdwqe",
+    "description": "erfwrce",
+    "status": "pending",
+    "userId": "69cf9a95d98381d76ac22a5b",
+    "dueDate": "2026-04-06T00:00:00.000Z",
+    "priority": "High",
+    "createdAt": "2026-04-03T12:51:02.354Z",
+    "updatedAt": "2026-04-03T12:51:02.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfbe803af4a15557955495",
+    "title": "jhjguyg",
+    "description": "kjniuhiojioj",
+    "status": "completed",
+    "userId": "69cfbd3b3af4a1555795548e",
+    "dueDate": "2026-04-03T00:00:00.000Z",
+    "priority": "High",
+    "createdAt": "2026-04-03T13:20:00.101Z",
+    "updatedAt": "2026-04-03T13:20:10.530Z",
+    "__v": 0
+  }
+]
